@@ -7,3 +7,6 @@ synchronized(function(){
     //包裹你要执行的代码吧。。。
 
 });
+
+# 注意：
+暂时只支持linux，如果要用于windows请把代码中/tmp目录改为windows下的临时目录。
