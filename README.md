@@ -24,6 +24,6 @@ synchronized(function($ready){
 });
 
 # 注意：
-暂时只支持linux，如果要用于windows请把代码中/tmp目录改为windows下的临时目录。
+暂时只支持linux，如果要用于windows请把代码中/tmp目录改为windows下的临时目录（一般是：C:\Windows\Temp）。
 
 # 交流QQ：987188548
